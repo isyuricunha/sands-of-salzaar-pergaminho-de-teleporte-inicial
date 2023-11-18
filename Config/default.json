@@ -1,0 +1,11 @@
+{
+  "type": "plugin",
+  "name": "[PT-BR] Pergaminho de Teleporte Inicial",
+  "desc": "Permita-me transportar você para um local à sua escolha sem o inconveniente do tempo de recarga, usando a versão avançada do Pergaminho de Teletransporte Inicial.\n\nDiferente do outro mod \"Pergaminho de Teleporte\", este mod aprimora o Pergaminho de Transporte inicial, o qual você já inicia com ele. Porem, este mod só te permite teleportar entre as Cidades, o outro mod \"Pergaminho de Teleporte\", te permite dar transporte para Cidades/Minas/Portais/NPC e etc, este não.\n\nNão é necessário iniciar um novo jogo ou gastar pontos de Legado/Legacy, pois o Pergaminho Inicial já vem na sub mochila (novamente, ele aprimora o Pergaminho Inicial).",
+  "tags": "Items",
+  "start_scene": "",
+  "include_main_game": "2",
+  "homepage_background": "",
+  "audioControllerAdditional": "",
+  "build_version": "1.0.32"
+}

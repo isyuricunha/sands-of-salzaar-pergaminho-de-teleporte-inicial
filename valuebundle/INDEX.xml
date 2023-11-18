@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<convert reg="game_item_pojo.xml" from="D道具列表.xlsx"/>
+  <convert reg="storyevent_pojo.xml" from="J剧情.xlsx"/>
+</root>
